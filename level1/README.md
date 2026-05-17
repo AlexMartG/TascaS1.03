@@ -51,17 +51,17 @@ This project focuses on working with arrays in PHP. The exercises cover indexed 
 ## 🚀 How to run the project
 
 1. Clone the repository:
-   
+   ```bash
    git clone https://github.com/AlexMartG/TascaS1.03.git
    ```
 
 2. Make sure you have PHP installed:
-   
+   ```bash
    php --version
    ```
 
 3. Run any exercise from the terminal:
-   
+   ```bash
    php exercise1.php
    ```
 
@@ -71,6 +71,7 @@ This project focuses on working with arrays in PHP. The exercises cover indexed 
 
 - Ensuring array indexes are properly reordered after removing an element (Exercise 2), using `array_values()` to avoid index gaps.
 - Handling case sensitivity correctly in the character search function (Exercise 3).
+
 
 ---
 
